@@ -33,7 +33,7 @@ The function returns a dictionary with a status key. If the file transfer is suc
 This script requires the paramiko library. You can install it with pip:
 
 ```sh
-pip install paramiko
+pip install -r requirements.txt
 ```
 
 ## Usage
