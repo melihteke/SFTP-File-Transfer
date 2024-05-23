@@ -1,4 +1,4 @@
-# sftp-File-Transfer-Utility
+# SFTP-File-Transfer
 This Python utility uses the paramiko library to establish an SSH connection and perform secure file transfers using SFTP.
 
 ## Functions
